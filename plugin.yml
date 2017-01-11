@@ -1,0 +1,6 @@
+name: PSE
+main: PSE\MainClass
+version: 0.1
+api: 3.0.0-ALPHA1
+author: HittmanA
+description: An experimental plugin
